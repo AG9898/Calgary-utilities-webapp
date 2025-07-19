@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let map;
     let locationLayer;
     let allLocations = [];
+    let customIcons = {};
 
     // Initialize the Leaflet map
     function initMap() {
@@ -14,25 +15,61 @@ document.addEventListener('DOMContentLoaded', function() {
         }).addTo(map);
     }
 
-    // Get marker color based on category and amenity
-    function getMarkerColor(category, amenity) {
-        if (!category) return 'gray';
+    // Initialize custom icons
+    function initCustomIcons() {
+        customIcons = {
+            restaurant: L.icon({
+                iconUrl: '/static/images/restaurant.svg',
+                iconSize: [12, 12],
+                iconAnchor: [6, 6],
+                popupAnchor: [0, -6]
+            }),
+            utility: L.icon({
+                iconUrl: '/static/images/utility.svg',
+                iconSize: [12, 12],
+                iconAnchor: [6, 6],
+                popupAnchor: [0, -6]
+            }),
+            library: L.icon({
+                iconUrl: '/static/images/library.svg',
+                iconSize: [12, 12],
+                iconAnchor: [6, 6],
+                popupAnchor: [0, -6]
+            }),
+            hospital: L.icon({
+                iconUrl: '/static/images/hospital.svg',
+                iconSize: [12, 12],
+                iconAnchor: [6, 6],
+                popupAnchor: [0, -6]
+            }),
+            default: L.icon({
+                iconUrl: '/static/images/utility.svg', // fallback to utility icon
+                iconSize: [12, 12],
+                iconAnchor: [6, 6],
+                popupAnchor: [0, -6]
+            })
+        };
+    }
+
+    // Get marker icon based on category and amenity
+    function getMarkerIcon(category, amenity) {
+        if (!category) return customIcons.default;
         
         switch(category) {
             case 'restaurant':
-                return 'red';
+                return customIcons.restaurant;
             case 'utility':
-                return 'blue';
+                return customIcons.utility;
             case 'service':
                 if (amenity === 'library') {
-                    return 'green';
+                    return customIcons.library;
                 } else if (amenity === 'hospital') {
-                    return 'purple';
+                    return customIcons.hospital;
                 } else {
-                    return 'orange';
+                    return customIcons.default;
                 }
             default:
-                return 'gray';
+                return customIcons.default;
         }
     }
 
@@ -63,15 +100,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 const properties = feature.properties || {};
                 const category = properties.category;
                 const amenity = properties.amenity;
-                const color = getMarkerColor(category, amenity);
+                const icon = getMarkerIcon(category, amenity);
                 
-                return L.circleMarker(latlng, {
-                    radius: 8,
-                    fillColor: color,
-                    color: 'white',
-                    weight: 2,
-                    opacity: 1,
-                    fillOpacity: 0.8
+                return L.marker(latlng, {
+                    icon: icon
                 });
             },
             onEachFeature: function(feature, layer) {
@@ -174,6 +206,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Initialize everything
     initMap();
+    initCustomIcons();
     initFilterButtons();
     loadLocations();
 }); 
