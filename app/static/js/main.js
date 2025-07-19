@@ -15,54 +15,25 @@ function initMap() {
     }).addTo(map);
 }
 
-// Create custom icons for each category
-const restaurantIcon = L.icon({
-    iconUrl: '/static/images/restaurant.svg',
-    iconSize: [32, 32],
-    iconAnchor: [16, 32],
-    popupAnchor: [0, -32]
-});
-
-const utilityIcon = L.icon({
-    iconUrl: '/static/images/utility.svg',
-    iconSize: [32, 32],
-    iconAnchor: [16, 32],
-    popupAnchor: [0, -32]
-});
-
-const libraryIcon = L.icon({
-    iconUrl: '/static/images/library.svg',
-    iconSize: [32, 32],
-    iconAnchor: [16, 32],
-    popupAnchor: [0, -32]
-});
-
-const hospitalIcon = L.icon({
-    iconUrl: '/static/images/hospital.svg',
-    iconSize: [32, 32],
-    iconAnchor: [16, 32],
-    popupAnchor: [0, -32]
-});
-
-// Get appropriate icon based on category and amenity
-function getMarkerIcon(category, amenity) {
-    if (!category) return restaurantIcon; // default fallback
+// Get marker color based on category and amenity
+function getMarkerColor(category, amenity) {
+    if (!category) return 'gray'; // default fallback
     
     switch(category) {
         case 'restaurant':
-            return restaurantIcon;
+            return 'red';
         case 'utility':
-            return utilityIcon;
+            return 'blue';
         case 'service':
             if (amenity === 'library') {
-                return libraryIcon;
+                return 'green';
             } else if (amenity === 'hospital') {
-                return hospitalIcon;
+                return 'purple';
             } else {
-                return restaurantIcon; // default for other services
+                return 'orange'; // default for other services
             }
         default:
-            return restaurantIcon; // default fallback
+            return 'gray'; // default fallback
     }
 }
 
@@ -93,10 +64,15 @@ function createMarkerLayer(locations) {
             const properties = feature.properties || {};
             const category = properties.category;
             const amenity = properties.amenity;
-            const icon = getMarkerIcon(category, amenity);
+            const color = getMarkerColor(category, amenity);
             
-            return L.marker(latlng, {
-                icon: icon
+            return L.circleMarker(latlng, {
+                radius: 8,
+                fillColor: color,
+                color: 'white',
+                weight: 2,
+                opacity: 1,
+                fillOpacity: 0.8
             });
         },
         onEachFeature: function(feature, layer) {
