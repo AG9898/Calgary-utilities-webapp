@@ -26,5 +26,6 @@ def create_app():
     app.add_url_rule('/', 'index', routes.index)
     app.add_url_rule('/map', 'map', routes.map_view)
     app.add_url_rule('/geojson', 'geojson', routes.geojson)
+    app.add_url_rule('/init-data', 'init_data', routes.init_data)
     
     return app 

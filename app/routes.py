@@ -1,11 +1,57 @@
-from flask import current_app, render_template, jsonify
-from app.models import Location, db
+from flask import current_app, render_template, jsonify, request
+from app.models import Location, db, import_geojson_files
+import os
 
 def index():
     return render_template('landing.html')
 
 def map_view():
     return render_template('index.html')
+
+def init_data():
+    """Initialize database with GeoJSON data from /app/data files"""
+    try:
+        # Check for secret token to prevent abuse
+        token = request.args.get('token')
+        expected_token = os.getenv('INIT_DATA_TOKEN', 'default_secret_token_change_me')
+        
+        if not token or token != expected_token:
+            return jsonify({
+                'error': 'Unauthorized',
+                'message': 'Valid token required. Set INIT_DATA_TOKEN environment variable.'
+            }), 401
+        
+        # Check if data already exists to prevent re-initialization
+        existing_count = Location.query.count()
+        if existing_count > 0:
+            return jsonify({
+                'message': f'Database already contains {existing_count} locations',
+                'warning': 'Data already exists. Use token with force=true to reinitialize.',
+                'existing_count': existing_count
+            }), 200
+        
+        # Import GeoJSON files
+        total_imported = import_geojson_files(current_app)
+        
+        if total_imported > 0:
+            return jsonify({
+                'success': True,
+                'message': f'Successfully imported {total_imported} locations from GeoJSON files',
+                'imported_count': total_imported
+            }), 200
+        else:
+            return jsonify({
+                'warning': 'No new locations imported',
+                'message': 'All locations may already exist or files may be empty',
+                'imported_count': 0
+            }), 200
+            
+    except Exception as e:
+        print(f"Error in init_data route: {str(e)}")
+        return jsonify({
+            'error': 'Internal server error',
+            'message': str(e)
+        }), 500
 
 def geojson():
     """Return all locations as GeoJSON FeatureCollection"""
