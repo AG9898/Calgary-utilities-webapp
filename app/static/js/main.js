@@ -18,30 +18,30 @@ function initMap() {
 // Create custom icons for each category
 const restaurantIcon = L.icon({
     iconUrl: '/static/images/restaurant.svg',
-    iconSize: [12, 12],
-    iconAnchor: [6, 12],
-    popupAnchor: [0, -12]
+    iconSize: [32, 32],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
 });
 
 const utilityIcon = L.icon({
     iconUrl: '/static/images/utility.svg',
-    iconSize: [12, 12],
-    iconAnchor: [6, 12],
-    popupAnchor: [0, -12]
+    iconSize: [32, 32],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
 });
 
 const libraryIcon = L.icon({
     iconUrl: '/static/images/library.svg',
-    iconSize: [12, 12],
-    iconAnchor: [6, 12],
-    popupAnchor: [0, -12]
+    iconSize: [32, 32],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
 });
 
 const hospitalIcon = L.icon({
     iconUrl: '/static/images/hospital.svg',
-    iconSize: [12, 12],
-    iconAnchor: [6, 12],
-    popupAnchor: [0, -12]
+    iconSize: [32, 32],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
 });
 
 // Get appropriate icon based on category and amenity
