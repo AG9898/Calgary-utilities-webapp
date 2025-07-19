@@ -1,0 +1,302 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-19T08:54:08Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252828433",
+        "addr:city": "Calgary",
+        "addr:housenumber": "6617",
+        "addr:postcode": "T2K 4Y5",
+        "addr:street": "Centre Street N",
+        "amenity": "library",
+        "name": "Calgary Public Library - Judith Ubach branch (Thorncliffe)",
+        "operator": "Calgary Public Library",
+        "operator:short": "CPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q5019701",
+        "website": "https://calgarylibrary.ca/locations/UMBACH/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0642364,
+          51.1120144
+        ]
+      },
+      "id": "node/252828433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296504148",
+        "amenity": "library",
+        "name": "Calgary Public Library - Country Hills",
+        "operator": "Calgary Public Library",
+        "operator:short": "CPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q5019701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.06641,
+          51.15916
+        ]
+      },
+      "id": "node/296504148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1252763912",
+        "addr:city": "Calgary",
+        "addr:housenumber": "924",
+        "addr:postcode": "T2W 0J9",
+        "addr:street": "Southland Drive SW",
+        "amenity": "library",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Calgary Public Library - Southwood",
+        "opening_hours": "Mo-Th 10:00-21:00, Fr 10:00-18:00, Sa 10:00-17:00",
+        "operator": "Calgary Public Library",
+        "operator:short": "CPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q5019701",
+        "website": "https://calgarylibrary.ca/locations/SOUTH/",
+        "wikidata": "Q105576494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.086216,
+          50.9636001
+        ]
+      },
+      "id": "node/1252763912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289252147",
+        "addr:housenumber": "2623",
+        "addr:street": "56 Street NE",
+        "amenity": "library",
+        "name": "Calgary Public Library - Village Square",
+        "operator": "Calgary Public Library",
+        "phone": "+1-403-260-2600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9551871,
+          51.0759872
+        ]
+      },
+      "id": "node/1289252147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2768636000",
+        "addr:city": "Calgary",
+        "addr:housenumber": "6532",
+        "addr:postcode": "T3B 0E9",
+        "addr:street": "Bowness Road NW",
+        "amenity": "library",
+        "name": "Calgary Public Library - Bowness",
+        "operator": "Calgary Public Library",
+        "operator:short": "CPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q5019701",
+        "website": "https://calgarylibrary.ca/locations/bow/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.182871,
+          51.0871693
+        ]
+      },
+      "id": "node/2768636000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3658237703",
+        "addr:city": "Calgary",
+        "addr:housenumber": "150, 7555",
+        "addr:postcode": "T3J 0C9",
+        "addr:street": "Falconridge Boulevard NE",
+        "amenity": "library",
+        "name": "Calgary Public Library - Saddletowne",
+        "operator": "Calgary Public Library",
+        "operator:short": "CPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q5019701",
+        "website": "https://calgarylibrary.ca/locations/SADDLE/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.948159,
+          51.1198989
+        ]
+      },
+      "id": "node/3658237703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4143889975",
+        "addr:city": "Calgary",
+        "addr:housenumber": "1421",
+        "addr:postcode": "T3C 1P2",
+        "addr:street": "33 Street SW",
+        "amenity": "library",
+        "internet_access": "yes",
+        "name": "Nicholls Family Library",
+        "operator": "Calgary Public Library",
+        "operator:short": "CPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q5019701",
+        "phone": "+1-403-260-2600",
+        "website": "https://calgarylibrary.ca/locations/WEST/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1360734,
+          51.0405498
+        ]
+      },
+      "id": "node/4143889975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5244916797",
+        "addr:housenumber": "108",
+        "addr:postcode": "T2C 5R1",
+        "addr:street": "Quarry Park Road SE",
+        "amenity": "library",
+        "name": "Quarry Park Library",
+        "opening_hours": "Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 12:00-17:00",
+        "operator": "Calgary Public Library",
+        "operator:short": "CPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q5019701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.005872,
+          50.9612282
+        ]
+      },
+      "id": "node/5244916797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5294684358",
+        "amenity": "library",
+        "name": "Gallagher Library",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 12:00-16:00; PH off",
+        "operator": "University of Calgary Department of Geoscience",
+        "ref:isil": "CA-ACU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1293137,
+          51.0799834
+        ]
+      },
+      "id": "node/5294684358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6358759256",
+        "addr:city": "Calgary",
+        "addr:housenumber": "19",
+        "addr:postcode": "T3R 0J6",
+        "addr:street": "Sage Hill Passage NW",
+        "amenity": "library",
+        "name": "Sage Hill Public Library",
+        "operator": "Calgary Public Library",
+        "operator:short": "CPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q5019701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.147133,
+          51.1688421
+        ]
+      },
+      "id": "node/6358759256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10294399686",
+        "amenity": "library",
+        "email": "library@sait.ca",
+        "name": "Reg Erhardt Library",
+        "opening_hours": "Mo-Fr 07:30-21:30; Sa 10:00-16:00; Su off",
+        "operator": "SAIT",
+        "operator:type": "university",
+        "phone": "+1-403-284-8616",
+        "ref": "MC111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0888121,
+          51.0646923
+        ]
+      },
+      "id": "node/10294399686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11655464064",
+        "amenity": "library",
+        "name": "Seton Calgary Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9458061,
+          50.8791028
+        ]
+      },
+      "id": "node/11655464064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12093680001",
+        "addr:housenumber": "14847",
+        "addr:street": "Deer Run Drive SE",
+        "amenity": "library",
+        "name": "Little Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0005849,
+          50.9183762
+        ]
+      },
+      "id": "node/12093680001"
+    }
+  ]
+}

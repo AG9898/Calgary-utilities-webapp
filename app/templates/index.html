@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Utilities & Services Locator</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""/>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <div id="map"></div>
+    
+    <!-- Filter Buttons -->
+    <div id="filter-buttons">
+        <button class="filter-btn" data-category="all">
+            Show All
+        </button>
+        <button class="filter-btn" data-category="restaurant">
+            <img src="/static/images/restaurant.svg" alt="Restaurant" class="filter-icon">
+            Restaurants
+        </button>
+        <button class="filter-btn" data-category="utility">
+            <img src="/static/images/utility.svg" alt="Utility" class="filter-icon">
+            Utilities
+        </button>
+        <button class="filter-btn" data-category="service">
+            <img src="/static/images/library.svg" alt="Service" class="filter-icon">
+            Services
+        </button>
+    </div>
+    
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+    
+    <!-- Custom JavaScript -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html> 

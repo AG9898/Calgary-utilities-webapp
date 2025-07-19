@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-19T08:54:08Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4568983778",
+        "amenity": "hospital",
+        "emergency": "emergency_ward_entrance",
+        "healthcare": "hospital",
+        "name": "Rockyview General Hospital EMERGENCY ENTRANCE",
+        "operator": "Alberta Health Services",
+        "operator:short": "AHS",
+        "operator:type": "public",
+        "operator:wikidata": "Q4711650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.097359,
+          50.9890757
+        ]
+      },
+      "id": "node/4568983778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6340626412",
+        "addr:city": "Calgary",
+        "addr:housenumber": "400",
+        "addr:postcode": "T3G 5H6",
+        "addr:province": "Alberta",
+        "addr:street": "Crowfoot Crescent NW",
+        "addr:unit": "401",
+        "amenity": "hospital",
+        "check_date": "2025-07-12",
+        "healthcare": "hospital",
+        "level": "4",
+        "name": "Mayfair Diagnostics",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+1 866-611-2665",
+        "website": "https://www.radiology.ca/location/crowfoot/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2009878,
+          51.1299186
+        ]
+      },
+      "id": "node/6340626412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10650528066",
+        "addr:city": "Calgary",
+        "addr:housenumber": "1824",
+        "addr:postcode": "T2M 3Y7",
+        "addr:province": "Alberta",
+        "addr:street": "Crowchild Trail NW",
+        "addr:unit": "suite 101",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Harvest Medicine Calgary & Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1171756,
+          51.0689758
+        ]
+      },
+      "id": "node/10650528066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11971129704",
+        "addr:city": "Calgary",
+        "addr:housenumber": "10201",
+        "addr:postcode": "T2W 4X9",
+        "addr:province": "Alberta",
+        "addr:street": "Southport Road SW",
+        "addr:unit": "#650",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "behavior;psychiatry",
+        "name": "Bright Horizon Therapies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0733343,
+          50.9638857
+        ]
+      },
+      "id": "node/11971129704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12949326284",
+        "addr:city": "Calgary",
+        "addr:housenumber": "500",
+        "addr:postcode": "T2P 2V6",
+        "addr:province": "Alberta",
+        "addr:street": "4 Avenue SW",
+        "addr:unit": "Suite 2500",
+        "amenity": "hospital",
+        "contact:facebook": "https://www.facebook.com/buildresiliencenow/",
+        "email": "vivienne@resilience-now.com",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychotherapist;emdr_psychotherapist",
+        "name": "Resilience Counselling and Consulting - EMDR Therapy",
+        "opening_hours": "Mon 11am-6pm; Tue-Sat 6am-2pm",
+        "phone": "403-826-2685",
+        "start_date": "2021-01-01",
+        "website": "https://www.resilience-now.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0719557,
+          51.0498952
+        ]
+      },
+      "id": "node/12949326284"
+    }
+  ]
+}

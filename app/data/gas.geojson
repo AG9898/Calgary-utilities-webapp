@@ -1,0 +1,4191 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-19T08:53:05Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/196715417",
+        "addr:housenumber": "1740",
+        "addr:postcode": "T2M 0L7",
+        "addr:street": "16 Avenue NW",
+        "amenity": "fuel",
+        "brand": "Centex",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Centex",
+        "phone": "+1-403-398-8039",
+        "self_service": "yes",
+        "website": "https://www.centexpetroleum.com/component/locations/?view=location_detail&id=37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1016904,
+          51.0671997
+        ]
+      },
+      "id": "node/196715417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/204843021",
+        "addr:street": "Hamptons Drive NW",
+        "amenity": "fuel",
+        "name": "Calgary Co-op Hamptons Gas Bar",
+        "operator": "Calgary Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1315615,
+          51.1412679
+        ]
+      },
+      "id": "node/204843021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/204848190",
+        "addr:city": "Calgary",
+        "addr:street": "Citadel Way NW",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "fuel:diesel": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:premium": "yes",
+        "name": "Petro Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.194985,
+          51.1431807
+        ]
+      },
+      "id": "node/204848190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/204854742",
+        "addr:housenumber": "5858",
+        "addr:street": "Signal Hill Centre SW",
+        "amenity": "fuel",
+        "brand": "Mobil",
+        "brand:wikidata": "Q109676002",
+        "name": "Mobil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.172731,
+          51.0183693
+        ]
+      },
+      "id": "node/204854742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252839562",
+        "addr:city": "Calgary",
+        "addr:housenumber": "5004",
+        "addr:postcode": "T2K 0S8",
+        "addr:province": "Alberta",
+        "addr:street": "Centre Street N",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0619607,
+          51.0963461
+        ]
+      },
+      "id": "node/252839562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252839563",
+        "addr:city": "Calgary",
+        "addr:housenumber": "4823",
+        "addr:postcode": "T2E 2Z6",
+        "addr:province": "Alberta",
+        "addr:street": "Centre Street N",
+        "amenity": "fuel",
+        "brand": "Esso Express",
+        "brand:wikidata": "Q2350336",
+        "brand:wikipedia": "nl:Esso Express",
+        "name": "Esso Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0628517,
+          51.0957105
+        ]
+      },
+      "id": "node/252839563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252839564",
+        "addr:city": "Calgary",
+        "addr:housenumber": "4828",
+        "addr:postcode": "T2E 2Z7",
+        "addr:province": "Alberta",
+        "addr:street": "Centre Street N",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0619946,
+          51.0956653
+        ]
+      },
+      "id": "node/252839564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253003310",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0242102,
+          51.0811074
+        ]
+      },
+      "id": "node/253003310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253299786",
+        "amenity": "fuel",
+        "check_date:opening_hours": "2021-03-13",
+        "name": "HIdden Valley Petro-Canada",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1057917,
+          51.1466738
+        ]
+      },
+      "id": "node/253299786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253435563",
+        "amenity": "fuel",
+        "operator": "Fas Gas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0404519,
+          50.9878054
+        ]
+      },
+      "id": "node/253435563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256191709",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "name": "Petro Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0943576,
+          51.0528118
+        ]
+      },
+      "id": "node/256191709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256194093",
+        "addr:housenumber": "120",
+        "addr:street": "Scenic Acres Boulevard NW",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "name": "Husky",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.211507,
+          51.119952
+        ]
+      },
+      "id": "node/256194093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262580278",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "created_by": "JOSM",
+        "name": "Shell",
+        "operator": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0718459,
+          51.1022506
+        ]
+      },
+      "id": "node/262580278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262733412",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "name": "Chevron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0328278,
+          51.0945938
+        ]
+      },
+      "id": "node/262733412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266330508",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.141502,
+          51.0455551
+        ]
+      },
+      "id": "node/266330508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266330515",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1428329,
+          51.045949
+        ]
+      },
+      "id": "node/266330515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279226635",
+        "amenity": "fuel",
+        "brand": "Domo",
+        "brand:wikidata": "Q5291326",
+        "name": "Domo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0964324,
+          51.0827854
+        ]
+      },
+      "id": "node/279226635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281777692",
+        "addr:city": "Calgary",
+        "addr:housenumber": "839",
+        "addr:province": "Alberta",
+        "addr:street": "19 Street NE",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "fuel:octane_87": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Petro-Canada",
+        "operator": "Petro-Canada",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0137187,
+          51.0592473
+        ]
+      },
+      "id": "node/281777692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289830843",
+        "addr:city": "Calgary",
+        "addr:housenumber": "6450",
+        "addr:postcode": "T2K 5C5",
+        "addr:province": "Alberta",
+        "addr:street": "Centre Street N",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "operator": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.062007,
+          51.1101191
+        ]
+      },
+      "id": "node/289830843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296312883",
+        "amenity": "fuel",
+        "name": "Calgary Co-op Gas Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9689547,
+          50.9308539
+        ]
+      },
+      "id": "node/296312883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296312884",
+        "amenity": "fuel",
+        "brand": "Safeway",
+        "brand:wikidata": "Q17111901",
+        "brand:wikipedia": "en:Safeway (Canada)",
+        "name": "Safeway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9645491,
+          50.9314511
+        ]
+      },
+      "id": "node/296312884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296505879",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0644869,
+          51.1544063
+        ]
+      },
+      "id": "node/296505879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296506038",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0601158,
+          51.1545994
+        ]
+      },
+      "id": "node/296506038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296506341",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0727059,
+          51.1484796
+        ]
+      },
+      "id": "node/296506341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296510370",
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.10b",
+        "name": "The Real Canadian GasBar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0664617,
+          51.1607318
+        ]
+      },
+      "id": "node/296510370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298502013",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.015363,
+          50.9767529
+        ]
+      },
+      "id": "node/298502013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306073039",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.043657,
+          51.157896
+        ]
+      },
+      "id": "node/306073039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320441295",
+        "amenity": "fuel",
+        "brand": "Domo",
+        "brand:wikidata": "Q5291326",
+        "brand:wikipedia": "en:Domo Gasoline",
+        "name": "Domo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.95937,
+          51.0984733
+        ]
+      },
+      "id": "node/320441295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321907434",
+        "addr:housenumber": "624",
+        "addr:street": "16 Avenue NE",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0492721,
+          51.0672304
+        ]
+      },
+      "id": "node/321907434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321908220",
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.10f",
+        "name": "Sunrise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9881438,
+          51.0780586
+        ]
+      },
+      "id": "node/321908220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418577238",
+        "addr:city": "Calgary",
+        "addr:housenumber": "904",
+        "addr:postcode": "T2K 0M5",
+        "addr:province": "Alberta",
+        "addr:street": "64 Avenue NW",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.078305,
+          51.1107025
+        ]
+      },
+      "id": "node/418577238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/481167189",
+        "addr:city": "Calgary",
+        "addr:housenumber": "1320",
+        "addr:postcode": "T2M 0L1",
+        "addr:street": "16 Avenue NW",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_94": "yes",
+        "name": "Petro Canada",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0905711,
+          51.067102
+        ]
+      },
+      "id": "node/481167189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/576211275",
+        "amenity": "fuel",
+        "brand": "Canadian Tire",
+        "brand:wikidata": "Q1032400",
+        "brand:wikipedia": "en:Canadian Tire",
+        "compressed_air": "yes",
+        "name": "Canadian Tire",
+        "opening_hours": "Su 08:00-19:00; Mo-Fr 07:00-21:00; Sa 08:00-21:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1610408,
+          51.0184228
+        ]
+      },
+      "id": "node/576211275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/587559556",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Shell plc",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.997844,
+          51.081919
+        ]
+      },
+      "id": "node/587559556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/587559557",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "name": "Esso",
+        "operator": "Husky",
+        "operator:website": "https://local.myhusky.ca/ab/calgary/2525-32-ave-ne/",
+        "operator:wikidata": "Q702049",
+        "website": "https://www.esso.ca/en-ca/find-station/calgary-ab-calgaryhuskytcesso1171-200323532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9999814,
+          51.0809932
+        ]
+      },
+      "id": "node/587559557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611557925",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "compressed_air": "yes",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1418523,
+          51.0374519
+        ]
+      },
+      "id": "node/611557925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/615219079",
+        "amenity": "fuel",
+        "brand": "Safeway",
+        "brand:wikidata": "Q17111901",
+        "brand:wikipedia": "en:Safeway (Canada)",
+        "name": "Safeway Gas Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.983207,
+          51.0818618
+        ]
+      },
+      "id": "node/615219079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/665701792",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "car_wash": "yes",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_94": "yes",
+        "name": "Esso",
+        "opening_hours": "24/7",
+        "self_service": "yes",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.140683,
+          51.0221866
+        ]
+      },
+      "id": "node/665701792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/665701793",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "name": "Husky",
+        "opening_hours": "24/7",
+        "phone": "+1-403-244-2499",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.140651,
+          51.0228427
+        ]
+      },
+      "id": "node/665701793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/668081086",
+        "addr:housenumber": "3805",
+        "addr:postcode": "T3E 4P2",
+        "addr:street": "Richmond Road SW",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "fuel:octane_87": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_93": "yes",
+        "name": "Shell",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1417776,
+          51.0219003
+        ]
+      },
+      "id": "node/668081086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/730261062",
+        "addr:housenumber": "1010",
+        "addr:street": "Strathcona Drive SW",
+        "amenity": "fuel",
+        "name": "PetroCanada",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1868574,
+          51.0468832
+        ]
+      },
+      "id": "node/730261062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/809646604",
+        "amenity": "fuel",
+        "name": "Centex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0627962,
+          51.0729972
+        ]
+      },
+      "id": "node/809646604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/810757142",
+        "addr:housenumber": "12550",
+        "addr:postcode": "T3P 0A3",
+        "addr:street": "Symons Valley Road NW",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "check_date": "2023-12-30",
+        "fuel:diesel": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_93": "yes",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "operator": "Shell",
+        "phone": "+1 4032749447",
+        "self_service": "yes",
+        "website": "https://find.shell.com/ca/fuel/10053557-symons-valley-rd-nw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1293505,
+          51.166257
+        ]
+      },
+      "id": "node/810757142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/810757326",
+        "amenity": "fuel",
+        "branch": "Creekside",
+        "brand": "Federated Co-operatives",
+        "brand:wikidata": "Q5440676",
+        "brand:wikipedia": "en:Federated Co-operatives",
+        "name": "Calgary Co-op Gas Bar",
+        "opening_hours": "Mo-Fr 06:00-22:00;Sa-Su 07:00-22:00;Dec 31 07:00-20:00;Jan 01 09:00-20:00",
+        "operator": "Co-op",
+        "phone": "+1 403 2994424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.123291,
+          51.1603851
+        ]
+      },
+      "id": "node/810757326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/821552737",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200303006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9928082,
+          51.037468
+        ]
+      },
+      "id": "node/821552737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/838738363",
+        "addr:housenumber": "44",
+        "addr:street": "Sandarac Drive NW",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.099037,
+          51.1325152
+        ]
+      },
+      "id": "node/838738363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/932679679",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.067875,
+          51.1423689
+        ]
+      },
+      "id": "node/932679679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/946405270",
+        "amenity": "fuel",
+        "name": "Centex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0552761,
+          51.1266577
+        ]
+      },
+      "id": "node/946405270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/963833186",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.982558,
+          51.0886515
+        ]
+      },
+      "id": "node/963833186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984958362",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0602734,
+          50.9799205
+        ]
+      },
+      "id": "node/984958362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984960297",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.057526,
+          51.0016987
+        ]
+      },
+      "id": "node/984960297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984960493",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0475839,
+          51.0156284
+        ]
+      },
+      "id": "node/984960493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984968696",
+        "amenity": "fuel",
+        "name": "Centex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0124272,
+          51.0798261
+        ]
+      },
+      "id": "node/984968696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/989007004",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "name": "Esso",
+        "operator": "Husky",
+        "operator:website": "https://local.myhusky.ca/ab/calgary/2504-7-ave-ne/",
+        "operator:wikidata": "Q702049",
+        "website": "https://www.esso.ca/en-ca/find-station/calgary-ab-meridianhuskyesso4303-200323517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0007456,
+          51.0587791
+        ]
+      },
+      "id": "node/989007004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1030264905",
+        "addr:housenumber": "539",
+        "addr:postcode": "T2S 0A9",
+        "addr:street": "17 Avenue SW",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "check_date": "2025-06-26",
+        "compressed_air": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_93": "yes",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "self_service": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.073769,
+          51.0375748
+        ]
+      },
+      "id": "node/1030264905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1030273382",
+        "amenity": "fuel",
+        "name": "Petro-Pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0074634,
+          51.1513836
+        ]
+      },
+      "id": "node/1030273382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1036788473",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.012812,
+          51.0674567
+        ]
+      },
+      "id": "node/1036788473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1036796977",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9357209,
+          51.0732136
+        ]
+      },
+      "id": "node/1036796977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1036796978",
+        "addr:city": "Calgary",
+        "addr:housenumber": "6833",
+        "addr:postcode": "T1Y 6M7",
+        "addr:province": "Alberta",
+        "addr:street": "26 Avenue NE",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "name": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9355876,
+          51.0759156
+        ]
+      },
+      "id": "node/1036796978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1036796979",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9345954,
+          51.0807786
+        ]
+      },
+      "id": "node/1036796979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1063588285",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9577261,
+          51.0994796
+        ]
+      },
+      "id": "node/1063588285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1063588286",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200303345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9345732,
+          51.0988059
+        ]
+      },
+      "id": "node/1063588286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093140781",
+        "addr:housenumber": "6815",
+        "addr:postcode": "T2H 0L5",
+        "addr:street": "Macleod Trail SW",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "self_service": "yes",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0723434,
+          50.9927634
+        ]
+      },
+      "id": "node/1093140781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093140809",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0688535,
+          51.0064288
+        ]
+      },
+      "id": "node/1093140809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093140839",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.064574,
+          51.0163515
+        ]
+      },
+      "id": "node/1093140839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105619854",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "self_service": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.158916,
+          51.068971
+        ]
+      },
+      "id": "node/1105619854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1110057525",
+        "addr:city": "Calgary",
+        "addr:housenumber": "1419",
+        "addr:postcode": "T2R 1B8",
+        "addr:province": "AB",
+        "addr:street": "8 Street SW",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "opening_hours": "24/7",
+        "phone": "+1 403 244 2499",
+        "self_service": "yes",
+        "website": "https://www.myhusky.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0820631,
+          51.0393767
+        ]
+      },
+      "id": "node/1110057525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1148546574",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "fuel:diesel": "yes",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.075707,
+          50.9209433
+        ]
+      },
+      "id": "node/1148546574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1158847516",
+        "amenity": "fuel",
+        "name": "Petro-Pass",
+        "not:brand:wikidata": "Q64051305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.999945,
+          51.007971
+        ]
+      },
+      "id": "node/1158847516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1158847520",
+        "addr:housenumber": "5250",
+        "addr:street": "50 Avenue SE",
+        "amenity": "fuel",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:propane": "yes",
+        "name": "Co-op Gas Bar Eastfield",
+        "opening_hours": "Mo-Fr 05:00-22:00; Sa 07:00-22:00; Su 08:00-22:00",
+        "operator": "Calgary Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9593416,
+          51.0091142
+        ]
+      },
+      "id": "node/1158847520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1159433106",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0722108,
+          50.9655395
+        ]
+      },
+      "id": "node/1159433106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1159433116",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0708726,
+          50.9689081
+        ]
+      },
+      "id": "node/1159433116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289252150",
+        "addr:housenumber": "2520",
+        "addr:street": "52 Street NE",
+        "amenity": "fuel",
+        "brand": "Federated Co-operatives",
+        "brand:wikidata": "Q5440676",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:propane": "yes",
+        "name": "Calgary Co-op Gas Bar Village Square",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+        "operator": "Calgary Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.957825,
+          51.0745321
+        ]
+      },
+      "id": "node/1289252150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1320371452",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.013098,
+          50.9764111
+        ]
+      },
+      "id": "node/1320371452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1359994818",
+        "amenity": "fuel",
+        "name": "Co-op Gas Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.946305,
+          51.1111438
+        ]
+      },
+      "id": "node/1359994818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1364140190",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.98022,
+          51.0517886
+        ]
+      },
+      "id": "node/1364140190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1365062895",
+        "addr:city": "Calgary",
+        "addr:housenumber": "650",
+        "addr:postcode": "T2E 5A8",
+        "addr:street": "Meredith Road NE",
+        "amenity": "fuel",
+        "name": "Petro Canada;Executive Suites By Roseman",
+        "operator": "Roseman Corp",
+        "phone": "+1-403-290-0036",
+        "tourism": "hotel",
+        "website": "https://www.rosemancorp.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0489958,
+          51.0520458
+        ]
+      },
+      "id": "node/1365062895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1365062903",
+        "addr:housenumber": "12",
+        "addr:postcode": "T2E 3R5",
+        "addr:street": "4 Street NE",
+        "amenity": "fuel",
+        "branch": "Memorial",
+        "brand": "Centex",
+        "fax": "+1 403-264-0762",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Centex",
+        "operator": "Centex",
+        "phone": "+1 403-263-7474",
+        "self_service": "yes",
+        "website": "https://www.centexpetroleum.com/component/locations?id=43&view=location_detail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0514372,
+          51.05124
+        ]
+      },
+      "id": "node/1365062903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1365073254",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0669785,
+          50.9043376
+        ]
+      },
+      "id": "node/1365073254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1365077029",
+        "amenity": "fuel",
+        "brand": "Safeway",
+        "brand:wikidata": "Q17111901",
+        "brand:wikipedia": "en:Safeway (Canada)",
+        "name": "Safeway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.066105,
+          50.9054974
+        ]
+      },
+      "id": "node/1365077029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1365085915",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.124025,
+          50.9208207
+        ]
+      },
+      "id": "node/1365085915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1366132011",
+        "amenity": "fuel",
+        "brand": "Superstore",
+        "name": "Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9656959,
+          50.9335156
+        ]
+      },
+      "id": "node/1366132011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1379435613",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.063477,
+          50.9916938
+        ]
+      },
+      "id": "node/1379435613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1444036163",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "compressed_air": "yes",
+        "name": "Petro-Canada",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1407614,
+          51.0128013
+        ]
+      },
+      "id": "node/1444036163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1445116288",
+        "amenity": "fuel",
+        "name": "Gas Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9667967,
+          51.1090261
+        ]
+      },
+      "id": "node/1445116288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446046894",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9577413,
+          51.0626837
+        ]
+      },
+      "id": "node/1446046894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446046942",
+        "amenity": "fuel",
+        "brand": "Mac's",
+        "brand:wikidata": "Q4043527",
+        "brand:wikipedia": "en:Mac's Convenience Stores",
+        "name": "Mac's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9424956,
+          51.0526662
+        ]
+      },
+      "id": "node/1446046942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446046984",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9578539,
+          51.0854685
+        ]
+      },
+      "id": "node/1446046984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1481985754",
+        "addr:housenumber": "655",
+        "addr:street": "Shawinigan Drive SW",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky Shawnessy",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.089793,
+          50.913701
+        ]
+      },
+      "id": "node/1481985754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1520187689",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "name": "Petro Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.084519,
+          50.963252
+        ]
+      },
+      "id": "node/1520187689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1520190670",
+        "addr:housenumber": "10241",
+        "addr:postcode": "T2W 1E9",
+        "addr:street": "Elbow Drive SW",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "name": "Elbow Dr Husky",
+        "opening_hours": "24/7",
+        "operator": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.085146,
+          50.961175
+        ]
+      },
+      "id": "node/1520190670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1641394621",
+        "addr:street": "52 Street SE",
+        "amenity": "fuel",
+        "name": "Centex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9588418,
+          51.0346657
+        ]
+      },
+      "id": "node/1641394621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659977433",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0835168,
+          50.9799607
+        ]
+      },
+      "id": "node/1659977433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699179980",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0768574,
+          50.9021948
+        ]
+      },
+      "id": "node/1699179980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699179981",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0740234,
+          50.9113579
+        ]
+      },
+      "id": "node/1699179981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699185330",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0901231,
+          50.9036982
+        ]
+      },
+      "id": "node/1699185330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1752190809",
+        "addr:housenumber": "1205",
+        "addr:postcode": "T3C 1C4",
+        "addr:street": "14 Street SW",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_94": "yes",
+        "name": "Chevron",
+        "opening_hours": "24/7",
+        "phone": "+1-403-244-7676",
+        "website": "https://local.myhusky.ca/ab/calgary/1205-14-st-sw/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.095011,
+          51.0420345
+        ]
+      },
+      "id": "node/1752190809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1797750486",
+        "addr:housenumber": "10506",
+        "addr:street": "Southport Road SW",
+        "amenity": "fuel",
+        "name": "Superstore Gas Bar Southport",
+        "operator": "Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0723773,
+          50.9606382
+        ]
+      },
+      "id": "node/1797750486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1797755020",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.045312,
+          50.9420401
+        ]
+      },
+      "id": "node/1797755020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1797755147",
+        "addr:housenumber": "95, 1221",
+        "addr:street": "Canyon Meadows Drive SE",
+        "amenity": "fuel",
+        "brand": "Federated Co-operatives",
+        "brand:wikidata": "Q5440676",
+        "name": "Co-op Gas Bar Deer Valley",
+        "opening_hours": "Mo-Fr 06:00-22:00;Sa-Su 07:00-22:00;Dec 31 07:00-20:00;Jan 01 09:00-20:00",
+        "operator": "Calgary Co-op",
+        "phone": "+1 403 2994351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0280296,
+          50.9311257
+        ]
+      },
+      "id": "node/1797755147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1804201342",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.063305,
+          50.9305663
+        ]
+      },
+      "id": "node/1804201342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837935359",
+        "addr:street": "Macleod Trail S",
+        "amenity": "fuel",
+        "name": "Calgary Co-op Gas Bar",
+        "operator": "Calgary Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0706468,
+          50.9742192
+        ]
+      },
+      "id": "node/1837935359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1843273940",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "name": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.048671,
+          50.9063199
+        ]
+      },
+      "id": "node/1843273940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1843278378",
+        "addr:city": "Calgary",
+        "addr:housenumber": "11",
+        "addr:street": "Sunpark Drive SE",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.055803,
+          50.9060973
+        ]
+      },
+      "id": "node/1843278378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1843392181",
+        "addr:housenumber": "15207",
+        "addr:street": "Bannister Road SE",
+        "amenity": "fuel",
+        "name": "Centex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.068004,
+          50.9170442
+        ]
+      },
+      "id": "node/1843392181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1845693225",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.084525,
+          50.9390316
+        ]
+      },
+      "id": "node/1845693225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1877094176",
+        "addr:housenumber": "250",
+        "addr:street": "Shawville Boulevard SE",
+        "addr:unit": "100",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Calgary Co-op Gas Bar Shawnessy",
+        "opening_hours": "Mo-Sa 06:00-23:00; Su 07:00-23:00",
+        "operator": "Calgary Co-op",
+        "phone": "+1-403-299-4422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0650338,
+          50.903586
+        ]
+      },
+      "id": "node/1877094176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1925922469",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Esso",
+        "operator": "Circle K",
+        "self_service": "yes",
+        "source": "local_knowledge",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200303061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9626662,
+          51.1642964
+        ]
+      },
+      "id": "node/1925922469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1945051694",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9607616,
+          50.9174534
+        ]
+      },
+      "id": "node/1945051694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1985392118",
+        "addr:housenumber": "5301",
+        "addr:street": "Rundlehorn Drive NE",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "fuel:gasoline": "yes",
+        "name": "Shell",
+        "opening_hours": "Mo-Sa 06:00-24:00; Su 07:00-23:00",
+        "phone": "+1-403-285-4940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9576451,
+          51.0714524
+        ]
+      },
+      "id": "node/1985392118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2120455855",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1788079,
+          51.1206234
+        ]
+      },
+      "id": "node/2120455855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2148857683",
+        "addr:housenumber": "9940",
+        "addr:street": "Macleod Trail S",
+        "amenity": "fuel",
+        "brand": "Canadian Tire",
+        "brand:wikidata": "Q1032400",
+        "brand:wikipedia": "en:Canadian Tire",
+        "name": "Canadian Tire",
+        "note": "hours are for main store; gas bar hours not listed separately",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 09:00-18:00",
+        "phone": "+1-403-278-4040",
+        "website": "https://www.canadiantire.ca/en/store-details/ab/calgary-southland-and-macleod-ab.store.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0688683,
+          50.9640464
+        ]
+      },
+      "id": "node/2148857683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2199540763",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_93": "yes",
+        "name": "Shell",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0966411,
+          50.9731904
+        ]
+      },
+      "id": "node/2199540763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2217198227",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.058358,
+          50.9636891
+        ]
+      },
+      "id": "node/2217198227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2538538781",
+        "addr:housenumber": "2619",
+        "addr:postcode": "T2T 3T9",
+        "addr:street": "14 Street SW",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "building": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_94": "yes",
+        "name": "Esso",
+        "opening_hours": "Mo-Th 06:00-23:00; Fr-Su 06:00-24:00",
+        "phone": "+1-587-475-4072",
+        "self_service": "yes",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.095,
+          51.0307
+        ]
+      },
+      "id": "node/2538538781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2611209199",
+        "addr:city": "Calgary",
+        "addr:housenumber": "9704",
+        "addr:postcode": "T2V 1M2",
+        "addr:street": "Elbow Drive SW",
+        "amenity": "fuel",
+        "name": "Centex",
+        "reg_name": "Centex Haysboro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0844246,
+          50.9686126
+        ]
+      },
+      "id": "node/2611209199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2640596326",
+        "addr:city": "Calgary",
+        "addr:housenumber": "116",
+        "addr:postcode": "T3H 0M4",
+        "addr:street": "89 Street SW",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2159771,
+          51.0665605
+        ]
+      },
+      "id": "node/2640596326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2640597508",
+        "amenity": "fuel",
+        "brand": "Federated Co-operatives",
+        "brand:wikidata": "Q5440676",
+        "brand:wikipedia": "en:Federated Co-operatives",
+        "name": "Co-op",
+        "operator": "Calgary Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.211555,
+          51.059187
+        ]
+      },
+      "id": "node/2640597508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714971363",
+        "addr:city": "Calgary",
+        "addr:housenumber": "1201",
+        "addr:postcode": "T2G 2H7",
+        "addr:street": "1 Street SE",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.061357,
+          51.0408797
+        ]
+      },
+      "id": "node/2714971363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2757566786",
+        "addr:housenumber": "1920",
+        "addr:postcode": "T2S 1W3",
+        "addr:street": "4 Street SW",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "check_date": "2024-07-01",
+        "compressed_air": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_94": "yes",
+        "name": "Petro-Canada",
+        "opening_hours": "24/7",
+        "phone": "+1 403-228-6473",
+        "self_service": "yes",
+        "website": "https://www.petro-canada.ca/en/personal/gas-station-locations/1920-4-street-sw-calgary",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0712967,
+          51.0356015
+        ]
+      },
+      "id": "node/2757566786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2834233226",
+        "addr:city": "Calgary",
+        "addr:housenumber": "198",
+        "addr:street": "89 Street SW",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200303350",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.216263,
+          51.0674006
+        ]
+      },
+      "id": "node/2834233226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166114170",
+        "addr:housenumber": "15150",
+        "addr:street": "Mount McKenzie Drive SE",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "name": "Esso McKenzie Lake",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.980886,
+          50.9168504
+        ]
+      },
+      "id": "node/3166114170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166116064",
+        "addr:city": "Calgary",
+        "addr:housenumber": "807",
+        "addr:street": "McKenzie Drive SE",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9902346,
+          50.9022624
+        ]
+      },
+      "id": "node/3166116064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3184175326",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0361143,
+          50.8751703
+        ]
+      },
+      "id": "node/3184175326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3759565465",
+        "addr:city": "Calgary",
+        "addr:housenumber": "5320",
+        "addr:postcode": "T2A 4L7",
+        "addr:street": "8 Avenue SE",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven Gas Bar",
+        "opening_hours": "24/7",
+        "operator": "7-Eleven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9575,
+          51.0456341
+        ]
+      },
+      "id": "node/3759565465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4321588900",
+        "addr:city": "Calgary",
+        "addr:housenumber": "808",
+        "addr:street": "19 Street SE",
+        "amenity": "fuel",
+        "branch": "Inglewood",
+        "compressed_air": "yes",
+        "fax": "+1 403-452-9638",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:propane": "yes",
+        "name": "Centex",
+        "phone": "+1 403-266-3886",
+        "self_service": "only",
+        "website": "https://www.centexpetroleum.com/locations.html?view=location_detail&id=48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0182178,
+          51.0366137
+        ]
+      },
+      "id": "node/4321588900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4354453192",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.974617,
+          50.9897683
+        ]
+      },
+      "id": "node/4354453192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377375155",
+        "amenity": "fuel",
+        "brand": "Flying J",
+        "brand:wikidata": "Q64130592",
+        "fuel:diesel": "yes",
+        "hgv": "yes",
+        "name": "Flying J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0031672,
+          51.0107551
+        ]
+      },
+      "id": "node/4377375155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412514703",
+        "addr:housenumber": "250",
+        "addr:street": "Hawkstone Drive NW",
+        "amenity": "fuel",
+        "name": "G&B Fuels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1736316,
+          51.1353915
+        ]
+      },
+      "id": "node/4412514703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455886889",
+        "amenity": "fuel",
+        "name": "Co-op Cardlock",
+        "operator": "Calgary Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9604927,
+          51.0092556
+        ]
+      },
+      "id": "node/4455886889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463506220",
+        "addr:housenumber": "1704",
+        "addr:street": "61 Street SE",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.942165,
+          51.0382422
+        ]
+      },
+      "id": "node/4463506220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471593093",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "name": "Husky Cardlock",
+        "name:en": "Husky Cardlock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.959283,
+          50.9936155
+        ]
+      },
+      "id": "node/4471593093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471714893",
+        "amenity": "fuel",
+        "name": "Petro-Pass",
+        "name:en": "Petro-Pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9602556,
+          50.9981004
+        ]
+      },
+      "id": "node/4471714893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4552744946",
+        "addr:housenumber": "14943",
+        "addr:street": "Deer Ridge Drive SE",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky",
+        "operator": "Husky",
+        "operator:wikidata": "Q702049",
+        "website": "https://local.myhusky.ca/ab/calgary/14943-deer-ridge-dr-se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0265983,
+          50.9313627
+        ]
+      },
+      "id": "node/4552744946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558645789",
+        "amenity": "fuel",
+        "brand": "Flying J",
+        "brand:wikidata": "Q64130592",
+        "hgv": "yes",
+        "name": "Flying J",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9794213,
+          50.9488316
+        ]
+      },
+      "id": "node/4558645789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4743937039",
+        "amenity": "fuel",
+        "brand": "Canadian Tire",
+        "brand:wikidata": "Q1032400",
+        "brand:wikipedia": "en:Canadian Tire",
+        "name": "Canadian Tire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0656768,
+          50.9022192
+        ]
+      },
+      "id": "node/4743937039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4744044047",
+        "amenity": "fuel",
+        "brand": "Domo",
+        "brand:wikidata": "Q5291326",
+        "brand:wikipedia": "en:Domo Gasoline",
+        "name": "Domo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0645132,
+          50.9145934
+        ]
+      },
+      "id": "node/4744044047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4747295307",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0686161,
+          50.9551984
+        ]
+      },
+      "id": "node/4747295307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4752253891",
+        "addr:housenumber": "5919",
+        "addr:postcode": "T2H 2R9",
+        "addr:street": "Macleod Trail SW",
+        "amenity": "fuel",
+        "branch": "Macleod Trail – 58th Avenue",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "fuel:octane_87": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_93": "yes",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0723379,
+          51.000908
+        ]
+      },
+      "id": "node/4752253891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4762737507",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.982861,
+          50.9324375
+        ]
+      },
+      "id": "node/4762737507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4809858768",
+        "amenity": "fuel",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "check_date": "2024-06-19",
+        "hgv": "no",
+        "name": "Circle K",
+        "opening_hours": "24/7",
+        "website": "https://www.circlek.com/store-locator/CA/calgary/unit-500-7171-80-avenue-ne/0722195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9332163,
+          51.124814
+        ]
+      },
+      "id": "node/4809858768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4814512917",
+        "amenity": "fuel",
+        "brand": "Gas Plus",
+        "name": "Gas Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9985261,
+          51.0184018
+        ]
+      },
+      "id": "node/4814512917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878834111",
+        "addr:housenumber": "1264",
+        "addr:street": "68 Street SE",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky",
+        "operator": "Husky",
+        "operator:wikidata": "Q702049",
+        "website": "https://local.myhusky.ca/ab/calgary/1264-68-st-se/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.934664,
+          51.0430837
+        ]
+      },
+      "id": "node/4878834111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4927315584",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.000079,
+          50.9539534
+        ]
+      },
+      "id": "node/4927315584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931688083",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.062609,
+          50.9150661
+        ]
+      },
+      "id": "node/4931688083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949409289",
+        "addr:city": "Calgary",
+        "addr:housenumber": "204",
+        "addr:postcode": "T2G 0X8",
+        "addr:street": "11 Avenue SE",
+        "amenity": "fuel",
+        "brand": "Gas Plus",
+        "compressed_air": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:propane": "yes",
+        "name": "Gas Plus",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0605389,
+          51.0425859
+        ]
+      },
+      "id": "node/4949409289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4955879946",
+        "addr:housenumber": "3716",
+        "addr:street": "61 Avenue SE",
+        "amenity": "fuel",
+        "name": "Centex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9805419,
+          50.9998366
+        ]
+      },
+      "id": "node/4955879946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5039997733",
+        "addr:housenumber": "1304",
+        "addr:postcode": "T3C 1C5",
+        "addr:street": "14 Street SW",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "fuel:octane_87": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_93": "yes",
+        "name": "Shell",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.094339,
+          51.0410748
+        ]
+      },
+      "id": "node/5039997733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5063103623",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.028453,
+          51.1537189
+        ]
+      },
+      "id": "node/5063103623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5163981989",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200321964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.97912,
+          51.1473966
+        ]
+      },
+      "id": "node/5163981989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5176578567",
+        "addr:housenumber": "8",
+        "addr:street": "Nolan Hill Boulevard NW",
+        "addr:unit": "800",
+        "alt_name": "Petro-Canada Nolan Hill",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Petro-Canada",
+        "opening_hours": "24/7",
+        "phone": "+1-587-230-1929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.155831,
+          51.1730271
+        ]
+      },
+      "id": "node/5176578567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5206561627",
+        "addr:housenumber": "3540",
+        "addr:street": "52 Street SE",
+        "amenity": "fuel",
+        "brand": "Gas Plus",
+        "name": "Gas Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9577903,
+          51.0225225
+        ]
+      },
+      "id": "node/5206561627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220581207",
+        "addr:city": "Calgary",
+        "addr:housenumber": "2220",
+        "addr:postcode": "T1Y 6Y7",
+        "addr:street": "68 Street NE",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "description": "Gas staion. Provides Reular and Premium gasoline. Car wash and air on location",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9344899,
+          51.0699784
+        ]
+      },
+      "id": "node/5220581207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5254270689",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "name": "Esso",
+        "self_service": "yes",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302344",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1174167,
+          51.0575014
+        ]
+      },
+      "id": "node/5254270689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5254309194",
+        "addr:housenumber": "2201",
+        "addr:postcode": "T2N 3R9",
+        "addr:street": "Kensington Road NW",
+        "amenity": "fuel",
+        "branch": "Kensington Auto",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Centex",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1107438,
+          51.0523541
+        ]
+      },
+      "id": "node/5254309194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5262148407",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "compressed_air": "yes",
+        "name": "Esso",
+        "opening_hours": "24/7",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200303321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.025486,
+          50.8861573
+        ]
+      },
+      "id": "node/5262148407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5286668825",
+        "addr:housenumber": "2235",
+        "addr:postcode": "T2T 1Z9",
+        "addr:street": "33 Avenue SW",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_94": "yes",
+        "name": "Petro-Canada",
+        "opening_hours": "24/7",
+        "phone": "+1-403-217-1589",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1137275,
+          51.0237585
+        ]
+      },
+      "id": "node/5286668825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982365194",
+        "addr:city": "Calgary",
+        "addr:housenumber": "2655",
+        "addr:postcode": "T1Y 5S3",
+        "addr:street": "36 Street NE",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.982418,
+          51.0763565
+        ]
+      },
+      "id": "node/5982365194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6270760316",
+        "addr:housenumber": "3503",
+        "addr:postcode": "T3E 0N6",
+        "addr:street": "26 Avenue SW",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "name": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1373479,
+          51.0298579
+        ]
+      },
+      "id": "node/6270760316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6333700275",
+        "addr:city": "Calgary",
+        "addr:housenumber": "5305",
+        "addr:postcode": "T3N 0X4",
+        "addr:street": "Country Hills Boulevard NE",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "operator": "Shell Oil Company",
+        "phone": "+1-587-535-2916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.957802,
+          51.1547216
+        ]
+      },
+      "id": "node/6333700275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6345620436",
+        "addr:city": "Calgary",
+        "addr:housenumber": "17107",
+        "addr:street": "James McKevitt Road SW",
+        "addr:unit": "10",
+        "amenity": "fuel",
+        "name": "Video Max Gas",
+        "operator": "Video Max",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0942968,
+          50.8999013
+        ]
+      },
+      "id": "node/6345620436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6587773186",
+        "amenity": "fuel",
+        "brand": "Gas Plus",
+        "name": "Gas Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0049208,
+          51.0709825
+        ]
+      },
+      "id": "node/6587773186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6960649949",
+        "addr:city": "Calgary",
+        "addr:housenumber": "9405",
+        "addr:postcode": "T2V 0K7",
+        "addr:province": "Alberta",
+        "addr:street": "24 Street SW",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Petro-Canada",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1183297,
+          50.9714711
+        ]
+      },
+      "id": "node/6960649949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7120512686",
+        "amenity": "fuel",
+        "brand": "Husky",
+        "brand:wikidata": "Q702049",
+        "brand:wikipedia": "en:Husky Energy",
+        "name": "Husky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.052531,
+          51.0018582
+        ]
+      },
+      "id": "node/7120512686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7483012792",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.08629,
+          51.0568707
+        ]
+      },
+      "id": "node/7483012792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7494974643",
+        "addr:housenumber": "2807",
+        "addr:postcode": "T3E 0A8",
+        "addr:street": "17 Avenue SW",
+        "amenity": "fuel",
+        "branch": "Killarney",
+        "brand": "Calgary Co-op",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Calgary Co-op Gas Station",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1276528,
+          51.0375818
+        ]
+      },
+      "id": "node/7494974643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8164301496",
+        "addr:housenumber": "1840",
+        "addr:postcode": "T2G 0T8",
+        "addr:street": "9 Avenue SE",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_94": "yes",
+        "name": "Petro-Canada",
+        "opening_hours": "24/7",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0199369,
+          51.0358539
+        ]
+      },
+      "id": "node/8164301496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8447410460",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9592671,
+          51.0195514
+        ]
+      },
+      "id": "node/8447410460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8955302456",
+        "addr:city": "Calgary",
+        "addr:housenumber": "3516",
+        "addr:postcode": "T2A 6K5",
+        "addr:province": "AB",
+        "addr:street": "8 Avenue NE",
+        "amenity": "fuel",
+        "brand": "Canadian Tire",
+        "brand:website": "https://gasplus.canadiantire.ca",
+        "brand:wikidata": "Q1032400",
+        "brand:wikipedia": "en:Canadian Tire",
+        "name": "Canadian Tire Gas+",
+        "phone": "+1 403 235 2254",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9855357,
+          51.0598085
+        ]
+      },
+      "id": "node/8955302456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9309842537",
+        "addr:street": "Moraine Road NE",
+        "amenity": "fuel",
+        "brand": "UFA",
+        "brand:wikidata": "Q1809831",
+        "name": "UFA Cardlock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.999177,
+          51.0574233
+        ]
+      },
+      "id": "node/9309842537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9398106284",
+        "addr:housenumber": "256",
+        "addr:postcode": "T2E 1J8",
+        "addr:street": "16 Avenue NE",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0569323,
+          51.067272
+        ]
+      },
+      "id": "node/9398106284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9545920521",
+        "addr:housenumber": "3623",
+        "addr:postcode": "T2G 2H1",
+        "addr:street": "Macleod Trail SW",
+        "amenity": "fuel",
+        "brand": "Calgary Co-op",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Calgary Co-op Mission Gas Station",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00",
+        "self_service": "yes",
+        "website": "https://www.calgarycoop.com/stores/mission/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.060252,
+          51.0226675
+        ]
+      },
+      "id": "node/9545920521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9552319452",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9980863,
+          51.1549858
+        ]
+      },
+      "id": "node/9552319452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560688775",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200302350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9345577,
+          51.0528572
+        ]
+      },
+      "id": "node/9560688775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9585868097",
+        "amenity": "fuel",
+        "brand": "Federated Co-operatives",
+        "brand:wikidata": "Q5440676",
+        "brand:wikipedia": "en:Federated Co-operatives",
+        "name": "Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1600199,
+          51.1815737
+        ]
+      },
+      "id": "node/9585868097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9586008656",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1075595,
+          51.1738749
+        ]
+      },
+      "id": "node/9586008656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9595534848",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200320002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0028195,
+          50.9919268
+        ]
+      },
+      "id": "node/9595534848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9595534861",
+        "amenity": "fuel",
+        "name": "Ogden Gas Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0021443,
+          50.9912433
+        ]
+      },
+      "id": "node/9595534861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9597936423",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "brand:wikipedia": "en:Esso",
+        "name": "Esso",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200325535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0028581,
+          50.9706103
+        ]
+      },
+      "id": "node/9597936423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9643818701",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "brand:wikipedia": "en:Petro-Canada",
+        "name": "Petro-Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0246022,
+          50.8632408
+        ]
+      },
+      "id": "node/9643818701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11024049735",
+        "amenity": "fuel",
+        "branch": "Barlow Crossing",
+        "brand": "Calgary Co-op",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Calgary Co-op Gas Bar",
+        "operator": "Calgary Co-op",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9808563,
+          50.9728413
+        ]
+      },
+      "id": "node/11024049735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11059921683",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "hgv": "no",
+        "name": "Shell",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0037358,
+          51.0102428
+        ]
+      },
+      "id": "node/11059921683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11060019580",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "name": "Petro-Canada",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9998257,
+          51.0084077
+        ]
+      },
+      "id": "node/11060019580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11068040903",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "brand:wikidata": "Q867662",
+        "fuel:diesel": "yes",
+        "name": "Esso",
+        "self_service": "yes",
+        "website": "https://www.esso.ca/en-ca/find-station/esso-calgary-ab-esso-200326548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9908972,
+          51.0228674
+        ]
+      },
+      "id": "node/11068040903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11565719500",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9500719,
+          50.8660658
+        ]
+      },
+      "id": "node/11565719500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11565745736",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.207513,
+          51.1526643
+        ]
+      },
+      "id": "node/11565745736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11565768784",
+        "addr:city": "Calgary",
+        "addr:housenumber": "5300",
+        "addr:postcode": "T2A 0W1",
+        "addr:province": "AB",
+        "addr:street": "17 Avenue SE",
+        "amenity": "fuel",
+        "brand": "Petro-Canada",
+        "brand:wikidata": "Q1208279",
+        "name": "Petro-Canada",
+        "note:addr:street": "Street name as spelled on receipt",
+        "phone": "+1-403-612-8636",
+        "self_service": "yes",
+        "source:addr:street": "receipt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9579147,
+          51.0383447
+        ]
+      },
+      "id": "node/11565768784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11938469880",
+        "addr:city": "Calgary",
+        "addr:housenumber": "7102",
+        "addr:postcode": "T2V 1K1",
+        "addr:street": "Elbow Drive SW",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0826796,
+          50.991175
+        ]
+      },
+      "id": "node/11938469880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12222238923",
+        "amenity": "fuel",
+        "hgv": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9749354,
+          50.9900497
+        ]
+      },
+      "id": "node/12222238923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12222281162",
+        "amenity": "fuel",
+        "hgv": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9790589,
+          50.9494097
+        ]
+      },
+      "id": "node/12222281162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12297670686",
+        "amenity": "fuel",
+        "hgv": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9996284,
+          51.0808083
+        ]
+      },
+      "id": "node/12297670686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12434673729",
+        "addr:housenumber": "2623",
+        "addr:postcode": "T3E 0A5",
+        "addr:street": "17 Avenue SW",
+        "amenity": "fuel",
+        "brand": "G&B Fuels",
+        "fuel:diesel": "yes",
+        "fuel:e85": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "name": "G&B Fuels",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1227055,
+          51.0376778
+        ]
+      },
+      "id": "node/12434673729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12452467256",
+        "amenity": "fuel",
+        "brand": "Flying J",
+        "brand:wikidata": "Q64130592",
+        "name": "Flying J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.00487,
+          51.0747865
+        ]
+      },
+      "id": "node/12452467256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12468118610",
+        "addr:housenumber": "4940",
+        "addr:street": "Richmond Road SW",
+        "amenity": "fuel",
+        "brand": "Calgary Co-op",
+        "brand:wikidata": "Q5019656",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:propane": "yes",
+        "name": "Calgary Co-op Gas Bar Richmond Road",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00",
+        "self_service": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1573827,
+          51.0188744
+        ]
+      },
+      "id": "node/12468118610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12686177970",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0039305,
+          51.1346263
+        ]
+      },
+      "id": "node/12686177970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12716967746",
+        "amenity": "fuel",
+        "brand": "Federated Co-operatives",
+        "brand:wikidata": "Q5440676",
+        "fuel:lpg": "yes",
+        "name": "Co-op",
+        "operator": "Co-Op",
+        "self_service": "no",
+        "shop": "gas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0914127,
+          51.1687276
+        ]
+      },
+      "id": "node/12716967746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12832527993",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "name": "7-Eleven",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0167791,
+          50.9324361
+        ]
+      },
+      "id": "node/12832527993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12880023727",
+        "addr:housenumber": "4639",
+        "addr:postcode": "T3B 0B2",
+        "addr:street": "Bowness Road NW",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_89": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_94": "yes",
+        "name": "Chevron",
+        "note": "City of Calgary rooflines - aquisition date - 2024-06-12T22:39:34.000Z",
+        "self_service": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1604978,
+          51.072232
+        ]
+      },
+      "id": "node/12880023727"
+    }
+  ]
+}
